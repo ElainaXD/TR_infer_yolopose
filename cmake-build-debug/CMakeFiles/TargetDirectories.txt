@@ -1,0 +1,3 @@
+/home/wyh/Projects/OpencvTest/cmake-build-debug/CMakeFiles/OpencvTest.dir
+/home/wyh/Projects/OpencvTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wyh/Projects/OpencvTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
